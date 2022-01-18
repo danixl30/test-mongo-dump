@@ -1,0 +1,5 @@
+dumps
+node_modules
+src/google.credentials/credentials.json
+src/google.credentials/token.json
+src/db.credentials/db.yaml

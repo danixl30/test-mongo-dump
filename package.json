@@ -1,0 +1,22 @@
+{
+  "name": "test-mongo-dump",
+  "version": "1.0.0",
+  "description": "test mongo dump with nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "danixl30",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "googleapis": "^39.2.0",
+    "node-schedule": "^2.1.0",
+    "nodemon": "^2.0.15"
+  }
+}
